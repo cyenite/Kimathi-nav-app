@@ -27,7 +27,7 @@ dependencies:
   flutter_animated_dialog: ^2.0.0
   get: any
   geolocator: ^7.0.3
-  location: ^4.2.3
+  location:
 
 dev_dependencies:
   flutter_test:
